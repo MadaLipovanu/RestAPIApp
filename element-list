@@ -1,0 +1,9 @@
+com.javatechie.crud.example
+com.javatechie.crud.example.controller
+com.javatechie.crud.example.entities
+com.javatechie.crud.example.entities.tables
+com.javatechie.crud.example.entities.tables.pojos
+com.javatechie.crud.example.entities.tables.records
+com.javatechie.crud.example.repository
+com.javatechie.crud.example.service
+com.javatechie.crud.example.validation
